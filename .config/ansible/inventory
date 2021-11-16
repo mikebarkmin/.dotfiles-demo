@@ -1,0 +1,2 @@
+[all]
+demo ansible_connection=local
